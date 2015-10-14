@@ -1,6 +1,8 @@
+
 {
-    "plugins": [
-        "disqus"
-    ],
-    "pluginsConfig": {simple2source}
-}
+"plugins": ["disqus"],
+"pluginsConfig": {
+    "disqus": {
+        "shortName": "simple2source"
+    }
+}  
