@@ -2,5 +2,5 @@
     "plugins": [
         "disqus"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {simple2source}
 }
